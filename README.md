@@ -1,4 +1,4 @@
-# Obama Gaming (Gruppe 5)
+# Gruppe 5
 ### [Issue-Board](https://git.app.uib.no/Tarjei.Flotre/obama-gaming/-/boards)
 
 # The White House Protectors
